@@ -16,7 +16,7 @@ L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb
 > - El llenguatge s'ha de basar en **text pla**.
 > - Ha de fer ús de **metadades** (no confondre amb metallenguatge).
 > - N’ha de facilitar el procés automàtic de les dades per part d’un programa informàtic.
-> - N’ha de facilitar la representació (o la interpretació) de les dades emmagatzemades
+> - N’ha de facilitar la representació (o la interpretació) de les dades emmagatzemades.
 
 ## Un cop hàgiu acabat, prepareu una presentació per a explicar el següent:
 
@@ -40,7 +40,7 @@ L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb
 > [!Caution]
 > **Atenció**: l’incompliment de les instruccions de lliurament impliquen la NO correcció de la pràctica i una nota de 0 punts. Cal seguir totes les instruccions estrictament al peu de la lletra.
 
-| | 0 punts | 0,5 punts |1 punts |
+| | 0 punts | 0,5 punts | 1 punt |
 |---|---|---|---|
 | Introducció als llenguatges de marques | No s’ha realitzat o conté errors molt greus. | Explicació superficial o amb errors lleus. | Explicació clara, detallada i correcta. |
 | Explicació del llenguatge i regles d’ús | No s’ha realitzat o conté errors molt greus. | Explicació superficial o amb errors lleus. | Explicació clara, detallada i correcta. |
@@ -49,7 +49,7 @@ L’objectiu d’aquest exercici és aprofundir en els conceptes relacionats amb
 | Exemple | No s’ha realitzat o conté errors molt greus. | Explicació superficial o amb errors lleus. | Explicació clara, detallada i correcta. |
 | Classificació | No s’ha realitzat o conté errors molt greus. | Explicació superficial o amb errors lleus. | Explicació clara, detallada i correcta. |
 | Justificació llenguatge de marques. | No s’ha realitzat o conté errors molt greus. | Explicació superficial o amb errors lleus. | Explicació clara, detallada i correcta. |
-| Estil de les transparències | No s’ha realitzat o conté erros greus. | Pobre, poc treballat o es nota que s’ha fet a correcuita. | Correcte, agradable a la vista i homogeni.|
+| Estil de les transparències | No s’ha realitzat o conté errors greus. | Pobre, poc treballat o es nota que s’ha fet a correcuita. | Correcte, agradable a la vista i homogeni.|
 | Temps | Menys de 3 minuts o més de 7 minuts. | Menys de 4 minuts o més de 6 minuts. | Exactament o aproximadament 5 minuts (2:30 per alumne). |
 | Presència sobre l’escenari | No ha presentat | Li costa expressar-se en públic i mostra dificultats per fer-se entendre. | S’expressa amb naturalitat i claredat. Se’l veu còmode quan parla en públic. |
 
